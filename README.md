@@ -1,4 +1,7 @@
-# Mysql Database Class
+## Mysql Database Class
+
+This php class is a simple oriented object mysql client base
+on pdo, it **preventing** from ***SQL*** injection and ***XSS*** attacks.
 
 #### Init the database object
 ```php
